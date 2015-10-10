@@ -1,5 +1,5 @@
 # SMAPP Twitter Toolkit
-This is an user-friendly python package for interfacing with large collections of tweets. Developped at the SMaPP lab at New York University.
+This is an user-friendly python package for interfacing with large collections of tweets. Developed at the SMaPP lab at New York University.
 
 **Supports Python 2.7**
 
